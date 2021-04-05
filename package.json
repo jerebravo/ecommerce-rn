@@ -24,12 +24,12 @@
   "description": "Ecommerce mobile, make in RN",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerebravo/ecommerce-mobile.git"
+    "url": "git+https://github.com/jerebravo/ecommerce-rn.git"
   },
   "author": "Jeremy Bravo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jerebravo/ecommerce-mobile/issues"
+    "url": "https://github.com/jerebravo/ecommerce-rn/issues"
   },
-  "homepage": "https://github.com/jerebravo/ecommerce-mobile#readme"
+  "homepage": "https://github.com/jerebravo/ecommerce-rn#readme"
 }
